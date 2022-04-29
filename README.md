@@ -9,7 +9,7 @@ i've been learning to code for 1 years with flutter mobile Developer, but have r
 
 * 🌍  I'm based in Banten
 * 🖥️  See my portfolio at [MyPortfolio](http://NANDESU2145.com)
-* ✉️  You can contact me at [hananfaturhikmah2003@gmail.com](mailto:hananfaturhikmah2003@gmail.com)
+* ✉️  You can contact me at [Gmail](mailto:hananfaturhikmah2003@gmail.com)
 * 🚀  I'm currently working on [Nan](http://Nan.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Project Mobile apps
@@ -82,7 +82,7 @@ src="https://img.shields.io/twitch/status/HananDesu?logo=twitchsx&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/NANDESU2145/Config-Openclash" align="left"><img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=NANDESU2145&repo=Config-Openclash&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/NANDESU2145/Config-Openclash" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=NANDESU2145&repo=Config-Openclash&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
