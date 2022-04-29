@@ -16,8 +16,6 @@ i've been learning to code for 1 years with flutter mobile Developer, but have r
 * ⚡   kamu adalah energy ku
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandesu2145" alt="nandesu2145" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hanan_desu" target="blank"><img src="https://img.shields.io/twitter/follow/hanan_desu?logo=twitter&style=for-the-badge" alt="hanan_desu" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandesu2145&label=Profile%20views&color=0e75b6&style=flat" alt="nandesu2145" /> </p>
 <a href="https://www.twitter.com/HananDesu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HananDesu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
