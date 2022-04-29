@@ -15,6 +15,7 @@ i've been learning to code for 1 years with flutter mobile Developer, but have r
 * 🤝  I'm open to collaborating on Project Mobile apps
 * ⚡   kamu adalah energy ku
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandesu2145&label=Profile%20views&color=0e75b6&style=flat" alt="nandesu2145" /> </p>
 <a href="https://www.twitter.com/HananDesu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HananDesu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/NANDESU2145" target="_blank" rel="noreferrer"><img
