@@ -11,9 +11,9 @@ i've been learning to code for 1 years with flutter mobile Developer, but have r
 * 🖥️  See my portfolio at [MyPortfolio](http://NANDESU2145.com)
 * ✉️  You can contact me at [Gmail](mailto:hananfaturhikmah2003@gmail.com)
 * 🚀  I'm currently working on [Nan](http://Nan.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on Project Mobile apps
-* ⚡   kamu adalah energy ku
+* ⚡  Dirimu adalah penyemangat Hidup ku
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandesu2145" alt="nandesu2145" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandesu2145&label=Profile%20views&color=0e75b6&style=flat" alt="nandesu2145" /> </p>
