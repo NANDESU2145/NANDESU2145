@@ -85,7 +85,7 @@ src="https://img.shields.io/twitch/status/HananDesu?logo=twitchsx&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/NANDESU2145/hnan" align="left"><img align="left" width="100%" src="https://github.com/NANDESU2145/hnan/blob/main/assets/logo-indodax.png/api/pin/?username=NANDESU2145&repo=hnan&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_border=true&locale=en&show_icons=false"/></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/NANDESU2145/hnan" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=NANDESU2145&repo=hnan&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_border=true&locale=en&show_icons=false"/></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
